@@ -23,7 +23,7 @@ I have been working on a variety of projects, using the following technologies:
 ---
 
 ### EDUCATION
-- BSc International Politics 2:1  (Sep 2010 - Jul 2013) - Kings College London University
+- BA International Politics 2:1  (Sep 2010 - Jul 2013) - Kings College London University
 
 ---
 ### LINKS
