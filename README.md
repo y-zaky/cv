@@ -16,5 +16,24 @@ I have been working on a variety of projects, using the following technologies:
 | HTML5      | Handlebars           | Travis CI     | Figma        |           |
 | CSS3 & SCSS| Three.js             | CodeCov       | Invision     |           |
 |            | Socket.io            |               | Heroku       |           |
-|            | Cannon.js            |               | Amazon S3    |           |
-|            |                      |               | Heroku       |           |
+|            | Cannon.js            |               |              |           |
+|            |                      |               |              |           |
+
+
+---
+
+### EDUCATION
+- BSc International Politics 2:1  (Sep 2010 - Jul 2013) - Kings College London University
+
+---
+### LINKS
+
+[LinkedIn](https://www.linkedin.com/in/yahia-zaky/)
+
+---
+### INTERESTS
+* Entrepreneurship
+* Football
+* Comedy
+* Salsa
+* Blockchain
